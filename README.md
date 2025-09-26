@@ -166,5 +166,7 @@ CREATE TABLE students (
 
 ## Credits 👏
 Developed by Eijay P. Pepito
+
 Theme: Club Eijay's ScholarBase
+
 Version: 1.0
