@@ -1,6 +1,5 @@
 # Club Eijay's ScholarBase 🎓
-A modern student management system with a beautiful glassmorphic UI design.
-
+Club Eijay’s ScholarBase is a student management system built with PHP, MySQL, and Bootstrap. ScholarBase lets users add, view, edit, and delete student records in a clean, responsive interface. With validation, sorting, and modal confirmations, managing academic data becomes smooth and efficient!.
 ## Features 🌟
 
 ### Modern User Interface
